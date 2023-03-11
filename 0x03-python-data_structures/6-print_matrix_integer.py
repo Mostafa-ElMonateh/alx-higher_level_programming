@@ -5,4 +5,4 @@
              print("{:d}".format(matrix[i][j]), end="") 
              if j != i[-1]: 
                  print(" ", end="") 
-         print("")
+         print("\n")
